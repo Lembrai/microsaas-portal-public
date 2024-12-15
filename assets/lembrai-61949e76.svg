@@ -1,0 +1,27 @@
+<svg width="176" height="32" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <filter id="filter0_d_506_10589" x="7.42139" y="6.23706" width="5.36865" height="20.5264" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+  <filter id="filter1_d_506_10589" x="13.7368" y="12.9734" width="5.36865" height="13.7896" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+  <filter id="filter2_d_506_10589" x="20.0522" y="8.7627" width="5.36865" height="18" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path d="m0,8.42105c0,-4.65082 3.77023,-8.42105 8.42105,-8.42105l15.15785,0c4.6509,0 8.4211,3.77023 8.4211,8.42105l0,15.15785c0,4.6509 -3.7702,8.4211 -8.4211,8.4211l-15.15785,0c-4.65082,0 -8.42105,-3.7702 -8.42105,-8.4211l0,-15.15785z" fill="#3C50E0" id="svg_10"/>
+  <g filter="url(#filter0_d_506_10589)" id="svg_11">
+   <path d="m8.42139,8.42127c0,-0.93016 0.75404,-1.68421 1.68421,-1.68421l0,0c0.9302,0 1.6842,0.75405 1.6842,1.68421l0,15.15793c0,0.9301 -0.754,1.6842 -1.6842,1.6842l0,0c-0.93017,0 -1.68421,-0.7541 -1.68421,-1.6842l0,-15.15793z" fill="white" id="svg_12"/>
+  </g>
+  <g opacity="0.9" filter="url(#filter1_d_506_10589)" id="svg_13">
+   <path d="m14.7368,15.1576c0,-0.9302 0.7541,-1.6842 1.6842,-1.6842l0,0c0.9302,0 1.6842,0.754 1.6842,1.6842l0,8.421c0,0.9302 -0.754,1.6843 -1.6842,1.6843l0,0c-0.9301,0 -1.6842,-0.7541 -1.6842,-1.6843l0,-8.421z" fill="white" id="svg_14"/>
+  </g>
+  <g opacity="0.7" filter="url(#filter2_d_506_10589)" id="svg_15">
+   <path d="m21.0522,10.9469c0,-0.9302 0.7541,-1.6842 1.6843,-1.6842l0,0c0.9301,0 1.6842,0.754 1.6842,1.6842l0,12.6316c0,0.9301 -0.7541,1.6842 -1.6842,1.6842l0,0c-0.9302,0 -1.6843,-0.7541 -1.6843,-1.6842l0,-12.6316z" fill="white" id="svg_16"/>
+  </g>
+  <text stroke="#ffffff" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Comfortaa'" font-size="24" stroke-width="0" id="svg_17" y="24.25" x="52" fill="#BBBBBB">Lembraí</text>
+ </g>
+</svg>
